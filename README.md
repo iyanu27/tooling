@@ -32,7 +32,7 @@ Update the application code in
 
 Then add/commit/push to gitlab
 
-Then save it 
+## Then save it 
 ```
 git status # to see your changes
 ```
